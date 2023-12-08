@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6FEAD94A-D8BD-4FC3-A903-832E0A42CBCA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Models/Person.cs">
+    <Files>
+      <File FileName="Delegate-Predicate/Program.cs" />
+      <File FileName="Domain/Models/Person.cs" Line="13" Column="1" />
+      <File FileName="Domain/Models/Book.cs" />
+      <File FileName="Domain/Models/BaseEntity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegate-Predicate" expanded="True">
+            <Node name="Delegate-Predicate" expanded="True" />
+            <Node name="Domain" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Person.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Delegate-Predicate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
